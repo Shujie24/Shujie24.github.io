@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shujie Deng - Machine Learning Researcher"
+title                    : "Shujie Deng"
 title_separator          : "-"
 name                     : &name "Shujie Deng"
-description              : &description "Machine Learning Researcher and M.Eng student at UC Berkeley specializing in AI, LLMs, and Edge Computing"
+description              : &description "Machine Learning Researcher and M.Eng student at UC Berkeley specializing in machine learning"
 url                      : https://shujie24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shujie24/Shujie24.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shujie Deng"
-  avatar           : "profile.png"
+  avatar           : "shujie-profile.jpg"
   bio              : "Machine Learning Researcher and M.Eng student at UC Berkeley"
   location         : "Berkeley, California"
   employer         : "UC Berkeley"
