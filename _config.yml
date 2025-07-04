@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shujie Deng's Website"
+title                    : "Shujie Deng - Machine Learning Researcher"
 title_separator          : "-"
 name                     : &name "Shujie Deng"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Machine Learning Researcher and M.Eng student at UC Berkeley specializing in AI, LLMs, and Edge Computing"
+url                      : https://shujie24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Shujie24/Shujie24.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shujie Deng"
   avatar           : "profile.png"
-  bio              : "Machine Learning Researcher"
-  location         : "Toronto, ON, Canada"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : shujie.deng@mail.utoronto.ca
+  bio              : "Machine Learning Researcher and M.Eng student at UC Berkeley"
+  location         : "Berkeley, California"
+  employer         : "UC Berkeley"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=shujie+deng"
+  email            : shujie_deng@berkeley.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -100,14 +100,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/shujiedeng/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # Add your Twitter handle if you have one
   vine             :
   weibo            :
   xing             :
