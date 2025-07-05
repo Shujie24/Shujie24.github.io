@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shujie Deng - Machine Learning Researcher"
+title: "Shujie Deng"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,16 +10,13 @@ redirect_from:
 
 About Me
 ======
-I am a Machine Learning Researcher and M.Eng student in the Electrical Engineering and Computer Science Department at UC Berkeley, where I maintain a cGPA of 3.98/4.00 and am a recipient of the Fung Excellence Scholarship. Previously, I completed my Honours Bachelor of Science at the University of Toronto with a cGPA of 3.91/4.00, majoring in Computer Science and Mathematics with a focus on Artificial Intelligence.
+Hi! My name is Shujie Deng, I am a master student in the Electrical Engineering and Computer Science Department at UC Berkeley. Previously, I completed my Honours Bachelor of Science at the University of Toronto, majoring in Computer Science and Mathematics with a focus on Artificial Intelligence.
+
+Previously, I was honoured to be supervised by Professor [Xujie Si](https://www.cs.toronto.edu/~six/) and worked as a research assistant at [Vector Institute](https://vectorinstitute.ai/). I also worked as a machine learning engineer intern at [Tealbook](https://www.tealbook.com/).
 
 Research Interests
 ======
-My research focuses on:
-- **Large Language Models (LLMs)** and their reasoning capabilities
-- **Edge AI** and on-device machine learning applications
-- **Model distillation** and optimization for mobile/embedded systems
-- **Natural Language Processing (NLP)** and semantic understanding
-- **Retrieval Augmented Generation (RAG)** systems
+My research focuses on machine learning evaluation, specifically how to design and measure machine learning systems accurately and thoroughly. I am also broadly interested in alignment, reasoning of language models and enhancing capabilities of AI agents.
 
 Current Research
 ======
