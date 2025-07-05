@@ -10,9 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi! My name is Shujie Deng, I am a master student in the Electrical Engineering and Computer Science Department at UC Berkeley. Previously, I completed my Honours Bachelor of Science at the University of Toronto, majoring in Computer Science and Mathematics with a focus on Artificial Intelligence.
-
-Previously, I was honoured to be supervised by Professor [Xujie Si](https://www.cs.toronto.edu/~six/) and worked as a research assistant at [Vector Institute](https://vectorinstitute.ai/). I also worked as a machine learning engineer intern at [Tealbook](https://www.tealbook.com/).
+Hi! My name is Shujie Deng, I am a master student in the Electrical Engineering and Computer Science Department at UC Berkeley. Previously, I completed my Honours Bachelor of Science at the University of Toronto, majoring in Computer Science and Mathematics with a focus on Artificial Intelligence. I was honoured to be supervised by Professor [Xujie Si](https://www.cs.toronto.edu/~six/) and worked as a research assistant at [Vector Institute](https://vectorinstitute.ai/). I also worked as a machine learning engineer intern at [Tealbook](https://www.tealbook.com/).
 
 Research Interests
 ======
