@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shujie Deng"
+title: "Shujie Deng - Machine Learning Engineer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

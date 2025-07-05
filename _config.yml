@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shujie Deng"
   avatar           : "shujie-profile.jpg"
-  bio              : "EECS M.Eng student at UC Berkeley"
+  bio              : "EECS Master's student at UC Berkeley"
   location         : "Berkeley, California"
   employer         : "UC Berkeley"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=shujie+deng"
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Shujie24"
+  github           : "https://shujie24.github.io/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shujiedeng/"
+  linkedin         : "https://www.linkedin.com/in/shujiedeng/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
